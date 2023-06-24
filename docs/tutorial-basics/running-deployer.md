@@ -40,7 +40,7 @@ The first page will ask you for the pin given in the command prompt (usually aut
 
 Link your account after putting in the correct 4-Digit pin.
 
-:::caution BEWARE
+:::caution CAUTION
 
 If you are not logged into a CFX Forums account it will ask you to create or login to an account.
 
