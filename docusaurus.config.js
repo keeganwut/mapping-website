@@ -21,6 +21,7 @@ const config = {
   organizationName: 'keeganwut', // Usually your GitHub org/user name.
   projectName: 'mapping-website', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
