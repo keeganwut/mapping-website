@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/adding-spooner",
+  "id": "tutorial-basics/adding-spooner",
+  "title": "Adding Spooner",
+  "description": "This section will explain how to add spooner to your new locally hosted server.",
+  "source": "@site/docs/tutorial-basics/adding-spooner.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/adding-spooner",
+  "permalink": "/mapping-website/docs/tutorial-basics/adding-spooner",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Running Deployer",
+    "permalink": "/mapping-website/docs/tutorial-basics/running-deployer"
+  },
+  "next": {
+    "title": "Extra Information",
+    "permalink": "/mapping-website/docs/tutorial-basics/congratulations"
+  }
+}

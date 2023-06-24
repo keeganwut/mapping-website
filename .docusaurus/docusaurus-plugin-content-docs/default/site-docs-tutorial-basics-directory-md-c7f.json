@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/directory",
+  "id": "tutorial-basics/directory",
+  "title": "Directories",
+  "description": "This section will explain how to setup a clean and easy to remember directory for your server files.",
+  "source": "@site/docs/tutorial-basics/directory.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/directory",
+  "permalink": "/mapping-website/docs/tutorial-basics/directory",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting Up",
+    "permalink": "/mapping-website/docs/category/setting-up"
+  },
+  "next": {
+    "title": "Running Deployer",
+    "permalink": "/mapping-website/docs/tutorial-basics/running-deployer"
+  }
+}

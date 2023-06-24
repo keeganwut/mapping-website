@@ -1,23 +1,15 @@
 ---
-sidebar_position: 6
+sidebar_position: 4
+title: Extra Information
 ---
 
 # Congratulations!
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+You have just learned the **basics of Server Development** and made some changes to the **CFX Template**.
 
-Docusaurus has **much more to offer**!
+## Things to note
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
-
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
-
-## What's next?
-
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+- Make sure to restart your server after adding new resources via. txAdmin.
+- If you close your command prompt or restart your computer you will have to start the server via. the FXServer.exe file.
+- Any issues join my discord and privately message me.
+- You can use the txAdmin menu by typing /tx in-game.
