@@ -75,7 +75,7 @@ Click on that then click **Download Zip**.
 
 ![Download Button](./img/downloadButton.png)
 
-## Congratulations
+## Congratulations!
 
 You have successfully downloaded the correct server artifacts and spooner.
 
