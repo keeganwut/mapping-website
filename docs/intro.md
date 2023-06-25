@@ -23,7 +23,7 @@ This guide will help set you up with a local host server with spooner.
 
 Head to Keymaster (link provided above) and Sign In.
 
-If you do not have an account it will prompt you to make one.
+If you do not have an account it will prompt you to create one.
 
 Once in Keymaster click New Server on the left.
 
@@ -59,7 +59,7 @@ Navigate on the page until you find the version that we recommended above.
 
 Click on and download the version once you find it.
 
-:::danger BEWARE
+:::danger WARNING
 
 Do not download the **latest recommended** that is provided via. the blue button as it is severely out-dated.
 
